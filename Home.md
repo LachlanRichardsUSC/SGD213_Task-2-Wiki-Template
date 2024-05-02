@@ -5,7 +5,7 @@ Welcome! If you don't know what you are doing here, jump over to the [Task 2](Ta
 ## Introduction
 This wiki discusses the client requirements for the Midnight Woods project.
 This project is being completed by Axolotl for Olexiy.
-The handover date for the project is the XXth of YY. Add something
+The handover date for the project is the 31 of May 2024. Add something
 
 ## Table of Contents
 
