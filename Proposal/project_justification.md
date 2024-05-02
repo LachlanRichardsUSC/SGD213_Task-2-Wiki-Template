@@ -5,26 +5,25 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-* Users should be drawn to the game by its eye-catching visuals
-* The audio in the game should be exciting and drive the player's emotion
-* The gameplay should be fast-paced, quick to gain feedback and quick to retry
+The client is seeking a proof of concept for a game that is simple and big on art
+* Users should be drawn to the game by its simple but unique visuals
+* The gameplay can be fast-paced, or can be slow-paced depending on the player actions
 
 ### Communication
 * When do you need this prototype by?
 > I need the prototype by Friday Week 13.
 
 * What kind of games do you think are good?
-> Couch coop games appear to be simple enough to develop and can move reasonable units if done well.
+> Any simple game as long as it has a good or unique art style.
 
 * Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
-> Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
+> That is alright, however if your able to can you add some simple art assets to the game such as the player, enemies and pickups. This will help after the prototyping is done to find an artistic direction to do in. However if it impacts the prototyping to make jist keep it geometry based.
 
 * Do you need a menu system?
-> Well I need to be able to take this to potential investors to sell the idea. If I need to quit out of it every time I finish that will not work. It will need basic UI functionality, pausing, quitting out of game, exiting the application, returning to main menu, playing the game from main menu.
+> Yes a memu system would be greatly appreciated as im not a good coder my self. the menu should be able play the game from the menu, quit to the menu, quiting the game and pausing. 
 
 * Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like dragons though! I think silly games catch people's eyes?
+> Hmm... i guess it being in a forest under the night sky is pretty appeasing to the eye.
 
 ---
 
