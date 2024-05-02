@@ -7,7 +7,7 @@
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 
 ### Project Name
-Donuts, Daggers & Dragons and other things and things bahhhhh
+Midnight Woods
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
@@ -16,8 +16,10 @@ Players cooperate in teams of 2 to overcome the other teams in an arena-style, t
 After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
 
 ### Begin Date
+6 of May 2024
 
 ### End Date
+31 of May 2024
 
 ### Justification
 Read the design justification [here](project_justification.md).
@@ -29,13 +31,14 @@ Read the design justification [here](project_justification.md).
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* Sidescroller
+* Platformer
+* Player able to walk
+* Player able to run
+* Player able to jump
+* Player able to take damage
+     * and damage enemies
+* Create pickups
 
 ### Expectations
 [//]: # (What are the client's expectations?)
@@ -51,7 +54,8 @@ Read the design justification [here](project_justification.md).
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
 * UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* Big focus on the art quality
+* Low focus on programming
 
 ---
 
@@ -63,6 +67,9 @@ Read the design justification [here](project_justification.md).
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
 | Phase | Completion Date |
 | --- | --- |
+| Start basic layout | Week 10 |
+| Add models/art | Week 11 |
+| Review work, fix any bugs | Week 12 |
 | Prototype | Week 13 |
 
 ---
@@ -75,8 +82,9 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| John Doe | 12-34-5678 | ________ |
+| Olexiy Telyakov | 2/05/2024 | ________ |
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
-| Jane Doe | 12-34-5678 | ________ |
+| Bodhi Hooper | 2/05/2024 | ________ |
+| Lachlan Richards | 2/05/2024 | ________ |
