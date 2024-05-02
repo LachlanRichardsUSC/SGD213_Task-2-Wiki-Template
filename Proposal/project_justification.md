@@ -31,13 +31,13 @@ The client is seeking a proof of concept for a game that is simple and big on ar
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* Needs the product on 31 of May 2024.
+* Sidescroller
+* Platforner
+* Player with walking ,running, jumping and can be damage
+     * Can damage enemies
+* Enemies
+* Pickups
 
 ### Expectations
 [//]: # (What are the client's expectations?)
@@ -53,7 +53,8 @@ The client is seeking a proof of concept for a game that is simple and big on ar
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
 * UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* Big focus on the art quality
+* Low focus on programming
 
 ---
 ## Risks
@@ -82,8 +83,6 @@ The client is seeking a proof of concept for a game that is simple and big on ar
 ---
 
 ## Justification
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
+We really liked the idea of it being in a forest. So we took your suggestion and begin going through many ideas, but finally came up with a title called "Midnight Woods".
 
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
-
-etc. Explain your design decisions in regards to the client's requirements.
+The name helps us get a better idea of the direction we should take and we found ourselves popping out with countless ideas, we also took your comment about it being night into consideration as well and thought it would be amazing if the enemies were dead stars and the pickups were falling stars. This, we feel, would add to the forest and make it very magical as well.
