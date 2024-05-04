@@ -1,12 +1,6 @@
-# TOP HEADING 
-
-## Dummy Heading
-Fill this with information.
+# Client 
 
 ## Intentions
-The client wants to blah blah blah, etc etc. 
-Specifically, she said that:
-> I want to be quoted in your Markdown wiki.
-> This is how you do it.
-> Did you know that?
-> Learn more about Markdown at: [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
+The client wants a simple sidescroller platformer that is etheir 2D or 3D.
+The client also want a character that can walk, run, jump as well as taking and dealing damage.
+The client specifically said to add both enemies and pickups but not any spcifices of what they can do.
