@@ -28,7 +28,7 @@ atmosphere of the woods with the intrigue of the night sky.
 
 Dynamic Enemies - Battle against creatures made from remnants of stars, each sporting a unique moveset and behaviour.
 
-Unlocl the power of the cosmos - Collect fragments of star matter to unlock new abilities to boost your powers.
+Unlock the power of the cosmos - Collect fragments of star matter to unlock new abilities to boost your powers.
 
 ### Begin Date
 6 of May 2024
