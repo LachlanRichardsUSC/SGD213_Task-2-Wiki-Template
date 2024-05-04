@@ -11,10 +11,6 @@ Midnight Woods
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
-
 Midnight Woods is a game where the player explores a mystical forest under a starlit sky, where mysteries unfold and danger lurks in
 every corner. In this 2D platformer, players will navigate the mysterious yet foreboding terrain, leaping from platforms veiled in the shadows
 of trees, illuminated only by the soft glow of moonlight. Players will encounter a host of unique enemies, such as those forged from dead star matter.
