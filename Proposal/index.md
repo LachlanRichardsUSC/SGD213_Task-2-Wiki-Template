@@ -9,7 +9,7 @@
 ### Project Name
 Midnight Woods
 
-### Description !Written with context under [here](project_justification.md)!
+### Description
 [//]: # (This is the elevator pitch, sell the idea)
 Midnight Woods is a game where the player explores a mystical forest under a starlit sky, where mysteries unfold and danger lurks in
 every corner. In this 2D platformer, players will navigate the mysterious yet foreboding terrain, leaping from platforms veiled in the shadows
@@ -84,6 +84,13 @@ Read the design justification [here](project_justification.md).
 | Add models/art | Week 11 |
 | Review work, fix any bugs | Week 12 |
 | Prototype | Week 13 |
+
+---
+
+## Schedule of Rates
+The develpoment cycle of Midnight Woods is fairly short, as such Axolotl Studio will be running on a tight schedule as the client has specified that the project must be handed in no later than **31st of May**. Two programmers have been assigned to undertake this project. Since the art assets will be provided by the client, no texture artist is required. Furthermore, the developers should primarily focus on function over form when developing this project.
+
+Each programmer is allocated roughly 10 hours per week of development time towards the project. As this project takes place over the period of 5 weeks, this puts the cost of the project anywhere from $4000 to $4500, accomodating for variance in hours per week.
 
 ---
 
