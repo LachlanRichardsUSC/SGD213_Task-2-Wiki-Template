@@ -3,7 +3,7 @@
 ## The primary Gameplay loop
 The expected gameplay loop is as follows:
 Move -> Complete Platforming Segments -> Jump on Enemies -> Collect Pickups to power your character -> Destroy more enemies -> Advance to the end of the level
-(An image/diagram should be provided here to accompany this)
+![alt text]([https://github.com/LachlanRichardsUSC/SGD213_Task-2-Wiki-Template/wiki](https://github.com/LachlanRichardsUSC/SGD213_Task-2-Wiki-Template/assets/161671083/9031dc16-e0df-42fe-875b-9c76aefb43d8))
 
 
 ## Game Feel - From Start to Finish
