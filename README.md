@@ -6,7 +6,7 @@ Team Logo                  |  Game Logo
 
 ## Team Members
 * Bodhi Hooper (#ID)
-* Lachlan Richards
+* Lachlan Richards - 1158302
 
 ## Introduction
 
