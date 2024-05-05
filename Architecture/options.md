@@ -1,4 +1,4 @@
-# TOP HEADING
+# Options
 
 You should consider 3 different architecture options in here.
 
