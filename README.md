@@ -1,5 +1,8 @@
 # Task 2 - Developing a Technical Specification
 
+![alt text](Media/Logos/TeamLogo.png) ![alt text](Media/Logos/GameLogo.png)
+
+## Axolotl Studios
 * Bodhi Hooper (#ID)
 * Lachlan Richards
 
@@ -9,3 +12,4 @@ The purpose of this wiki is to discuss the client requiremenets for the 2D platf
 
 ## Table of Contents
 TBD
+
