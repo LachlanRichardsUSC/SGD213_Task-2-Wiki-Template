@@ -6,7 +6,7 @@ You only need UML images in this section.
 
 Justify why you chose it.
 
-![](Media/UML_Diagrams/ClassDiagramVer1.png)
+![alt text](https://github.com/LachlanRichardsUSC/SGD213_Task-2-Wiki-Template/blob/f95cc25a24d3a4e99a1d223c1659ea334d1ef00d/Media/UML%20Diagrams/ClassDiagramVer1.png?raw=true)
 
 (Unfinished! Will Finish Tonight!!)
 
