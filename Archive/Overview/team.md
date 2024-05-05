@@ -1,6 +1,6 @@
 # Team 
 
-## Bodhi Hooper - Group leader, Designer, Programmer - [Student ID Here]
+## Bodhi Hooper - Group leader, Designer, Programmer - 1156036
 Know the basics of using both Unity and Unreal.
 Can code using C# or blueprints.
 Good at commutation and sharing information.
