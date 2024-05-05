@@ -1,6 +1,10 @@
 # Task 2 - Developing a Technical Specification
 
-## Axolotl Studios
+Team Logo                  |  Game Logo
+:-------------------------:|:-------------------------:
+![](Media/Logos/TeamLogo.png)  |  ![](Media/Logos/GameLogo.png)
+
+## Team Members
 * Bodhi Hooper (#ID)
 * Lachlan Richards
 
@@ -9,5 +13,8 @@
 The purpose of this wiki is to discuss the client requiremenets for the 2D platformer project, **Midnight Woods**. This project is being undertaken by the studio **Axolotl** for **Arden Sedmak** and **Olexiy Telyakov**. The handover date for the project is *Friday, 31st May, 2024.
 
 ## Table of Contents
-TBD
+* [Proposal](Proposal/index.md)
+* [Architecture Options](Architecture/options.md)
+* [Architecture Index](Architecture/index.md)
+
 
