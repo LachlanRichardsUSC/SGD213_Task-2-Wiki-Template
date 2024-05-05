@@ -1,7 +1,5 @@
 # Task 2 - Developing a Technical Specification
 
-![alt text](Media/Logos/TeamLogo.png) ![alt text](Media/Logos/GameLogo.png)
-
 ## Axolotl Studios
 * Bodhi Hooper (#ID)
 * Lachlan Richards
