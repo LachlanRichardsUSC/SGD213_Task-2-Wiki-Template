@@ -1,4 +1,4 @@
-# TOP HEADING 
+# Architecture 
 
 This is where you outline your chosen architecture option.
 
